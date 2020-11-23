@@ -3,6 +3,18 @@ date: 2019-08-08T22:42:09.000+00:00
 title: Sunflower Sutra
 author: Allen Ginsberg
 hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
+dynamic_zone:
+- template: call-to-action-section
+  header_prefix: ABOUT RESTAURANTS PHOTOGRAPHY
+  header: CALL TO ACTION CRAFTED SPECIFICALLY TO READER
+  call_to_action_content: Lorem Ipsum is simply dummy text of the printing and typesetting
+    industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+    1500s, when an unknown printer took a galley of type and scrambled it to make
+    a type specimen book. It has survived not only five centuries, but also the leap
+    into electronic typesetting, remaining essentially unchanged.
+  cta_button_label: Explore Photography
+  cta_button_url: https://www.onet.pl/
+  cta_section_background: "/content/images/blog-details-img17.jpg"
 
 ---
 I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
