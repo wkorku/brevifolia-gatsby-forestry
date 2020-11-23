@@ -15,6 +15,10 @@ dynamic_zone:
   cta_button_label: Explore Photography
   cta_button_url: https://www.onet.pl/
   cta_section_background: "/content/images/blog-details-img17.jpg"
+- template: quote-section
+  quote_content: This is an excellent company! I personally enjoyed the energy and
+    the professional support the whole team gave to us into creating website.
+  who_said_that: MATTIE STEPANEK
 
 ---
 I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
