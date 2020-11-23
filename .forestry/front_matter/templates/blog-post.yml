@@ -35,6 +35,19 @@ fields:
   label: hero image
   description: Enter hero image for blog post here
   default: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
+- name: dynamic_zone
+  type: blocks
+  label: Dynamic Zone
+  template_types:
+  - custom-html
+  - rich-content
+  - black-out-paragraph
+  - call-to-action-section
+  - blackout-letter-section
+  - quote-section
+  config:
+    min: 
+    max: 
 pages:
 - content/posts/an-essay-on-walking.md
 - content/posts/ne-te-quaesiveris-extra.md
