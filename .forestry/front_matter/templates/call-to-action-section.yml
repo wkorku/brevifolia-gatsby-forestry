@@ -1,4 +1,38 @@
 ---
 label: Call To Action Section
 hide_body: true
-fields: []
+fields:
+- name: header_prefix
+  type: text
+  config:
+    required: false
+  label: Header Prefix
+- name: header
+  type: text
+  config:
+    required: false
+  label: Header
+- name: call_to_action_content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Call To Action Content
+- name: cta_button_label
+  type: text
+  config:
+    required: false
+  label: CTA Button Label
+- name: cta_button_url
+  type: text
+  config:
+    required: false
+  label: CTA Button URL
+- name: cta_section_background
+  type: file
+  config:
+    maxSize: 64
+  label: CTA Section Background
