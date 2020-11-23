@@ -1,4 +1,13 @@
 ---
 label: Rich Content
 hide_body: true
-fields: []
+fields:
+- name: rich_content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Rich Content
