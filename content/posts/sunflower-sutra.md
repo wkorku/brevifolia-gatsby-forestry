@@ -25,6 +25,20 @@ dynamic_zone:
     happiness, negativity, pain. To feel the freedom that comes from being able to
     continue to make mistakes and choices today I choose to feel life, not to deny
     my humanity but embrace it.
+- template: black-out-paragraph
+  first_symbol: L
+  paragraph_content: orem Ipsum is simply dummy text of the printing and typesetting
+    industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+    1500s, when an unknown printer took a galley of type and scrambled it to make
+    a type specimen book. It has survived not only five centuries, but also the leap
+    into electronic typesetting, remaining essentially unchanged. Lorem Ipsum is simply
+    dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+    industry's standard dummy text ever since the 1500s, when an unknown printer took
+    a galley of type and scrambled it to make a type specimen book. It has survived
+    not only five centuries, but also the leap into electronic typesetting, remaining
+    essentially unchanged. It was popularised in the 1960s with the release of Letraset
+    sheets containing Lorem Ipsum passages, and more recently with desktop publishing
+    software like aldus pagemaker including versions.
 
 ---
 I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
