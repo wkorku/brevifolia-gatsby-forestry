@@ -1,4 +1,18 @@
 ---
 label: Quote Section
 hide_body: true
-fields: []
+fields:
+- name: quote_content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Quote Content
+- name: who_said_that
+  type: text
+  config:
+    required: false
+  label: Who Said that
